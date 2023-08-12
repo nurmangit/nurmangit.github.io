@@ -2598,15 +2598,15 @@ body {
   background-color: #888 !important; }
 
 .bg-primary {
-  background-color: #378C3F !important; }
+  background-color: #2777e0 !important; }
 
 .bg-info {
-  background-color: #2CA8FF !important; }
+  background-color: #82b4d8 !important; }
 
 .bg-success {
   background-color: #18ce0f !important; }
 
-.bg-danger {
+.bg-danger {  
   background-color: #FF3636 !important; }
 
 .bg-warning {
@@ -2653,9 +2653,9 @@ body {
     text-transform: uppercase;
     font-weight: 700; }
   .dropdown-menu.dropdown-primary {
-    background-color: #33813a; }
+    background-color: #2777e0; }
     .dropdown-menu.dropdown-primary:before {
-      color: #33813a; }
+      color: #2777e0; }
     .dropdown-menu.dropdown-primary .dropdown-header:not([href]):not([tabindex]) {
       color: rgba(255, 255, 255, 0.8); }
     .dropdown-menu.dropdown-primary .dropdown-item {
